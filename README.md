@@ -2,7 +2,7 @@
 
 ## 🖼️ General Description
 
-This project was born out of a personal curiosity for computer graphics. The goal was to develop an interactive C++ application (Linux environment, utilizing OpenGL graphics libraries) by following the steps and tutorials on [The Cherno's YouTube channel](https://www.youtube.com/@TheCherno). The result is an application that displays and allows manipulation of an animated scene containing a car carousel on a realistic terrain, with various graphical elements and lighting.
+This project was born out of a personal curiosity for computer graphics. The goal was to develop an interactive C++ application (Linux environment, utilizing OpenGL graphics libraries) by following the course Computer Graphics UNIPI. The result is an application that displays and allows manipulation of an animated scene containing a car carousel on a realistic terrain, with various graphical elements and lighting.
 
 Starting from a basic OpenGL setup, various features and personal improvements have been implemented to bring the scene to life.
 
